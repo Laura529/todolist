@@ -1,0 +1,34 @@
+body {
+    background: url(../images/wood.jpg) no-repeat fixed;
+    font-family: 'Roboto', sans-serif;
+    color: #969696;
+}
+
+.star{
+    color: #ff0000;
+}
+
+div.form-group {
+    text-align: center;
+}
+
+div.modal-footer {
+    background: #39599F;
+    text-align: center;
+}
+
+.body-height {
+    height: 250px;
+}
+
+h1.text-center {
+color: #969696;
+}
+
+.newheight{
+    height: 580px;
+}
+
+sbm_btn{
+    padding-top: 50px;
+}
